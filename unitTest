@@ -1,6 +1,3 @@
-# LEARN_BASICS_UNIT_TESTING
-Learn basics of unit testing in golang
-
 //Redirect to the test folder
 cd test_folder
 //Run tests for Go packages. It automatically identifies test files based on the naming convention, where test files end with _test.go. 
