@@ -12,6 +12,7 @@ type Tests struct {
 	expectedError error
 }
 
+// working on test
 func TestGetWeather(t *testing.T) {
 
 }
